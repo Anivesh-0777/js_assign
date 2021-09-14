@@ -1,0 +1,31 @@
+
+#bss{
+    float:center;
+    margin: auto;
+    height: 40px;
+    text-align: center;
+    
+}
+#div2{
+    height: 200px;
+    
+
+}
+h2{
+    text-align: center; 
+}
+.var1{
+    position: relative;
+    left: 2px;
+}
+#beforezero{
+
+    text-align: center;
+    float: center;
+    
+}
+.but{
+    size: 40%;
+    width: 100px;
+    height: 50px;
+}
